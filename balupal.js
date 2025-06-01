@@ -1,5 +1,6 @@
 
  const balu = {
     name: 'balupal',
-    ccall: 'not available'
+    ccall: 'not available',
+    new : 'blaupal'
 }
